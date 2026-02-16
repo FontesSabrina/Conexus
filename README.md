@@ -1,4 +1,8 @@
-# Conexus - Sistema de Gestão para Escola de Idiomas 🌍📚
+
+<img width="305" height="295" alt="2025" src="https://github.com/user-attachments/assets/8442473d-c582-42fb-94c2-4c2359650168" />
+
+
+Sistema de Gestão para Escola de Idiomas 🌍📚
 
 O **Conexus** é um projeto académico interdisciplinar desenvolvido para a disciplina de **Engenharia de Software I** no curso de Gestão da TI do **IFSEMG - Campus Muriaé**. O sistema foi projetado para digitalizar e integrar os processos de uma escola de idiomas, desde o controlo de matrículas até ao acompanhamento pedagógico.
 
